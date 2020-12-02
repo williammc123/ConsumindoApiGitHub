@@ -1,0 +1,56 @@
+﻿@model RepositorioGitHub.Commum.ActionResult<RepositorioGitHubViewModel.GitHubRepositoryViewModel>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<h2>Meus Repositórios</h2>
+
+<div class="jumbotron">   
+    <p class="lead">No coração do GitHub está um sistema de controle de versão de código aberto (VCS) chamado Git.</p>
+    <p> Git é responsável por tudo relacionado ao GitHub que acontece localmente em seu computador..</p>
+    <hr class="my-4">
+    
+    <p class="lead">
+        <a class="btn btn-primary btn-lg" href="https://docs.github.com/en" role="button">Visite a documentação</a>
+    </p>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table">
+            <tr>
+                <th>Nome</th>
+                <th>Proprietario</th>
+                <th>Nome Completo</th>
+                <th>URL</th>              
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model.Results)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Owner.Login)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FullName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Url)
+                    </td>
+
+                    <td>                      
+                        @Html.ActionLink("Detalhe", "Details", new { id = item.Id })                     
+                    </td>
+                </tr>
+            }
+
+        </table>      
+    </div>
+</div>
+

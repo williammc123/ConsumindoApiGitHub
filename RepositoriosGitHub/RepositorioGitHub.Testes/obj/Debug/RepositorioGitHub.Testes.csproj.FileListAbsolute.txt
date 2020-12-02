@@ -1,0 +1,6 @@
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Testes\bin\Debug\RepositorioGitHub.Testes.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Testes\bin\Debug\RepositorioGitHub.Testes.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Testes\obj\Debug\RepositorioGitHub.Testes.csprojAssemblyReference.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Testes\obj\Debug\RepositorioGitHub.Testes.csproj.CoreCompileInputs.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Testes\obj\Debug\RepositorioGitHub.Testes.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Testes\obj\Debug\RepositorioGitHub.Testes.pdb

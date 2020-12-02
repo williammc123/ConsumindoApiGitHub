@@ -1,0 +1,12 @@
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Commum\bin\Debug\RepositorioGitHub.Commum.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Commum\bin\Debug\RepositorioGitHub.Commum.pdb
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Commum\obj\Debug\RepositorioGitHub.Commum.csprojAssemblyReference.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Commum\obj\Debug\RepositorioGitHub.Commum.csproj.CoreCompileInputs.cache
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Commum\obj\Debug\RepositorioGitHub.Commum.dll
+C:\Projetos\RepositoriosGitHub\RepositorioGitHub.Commum\obj\Debug\RepositorioGitHub.Commum.pdb
+C:\RepositoriosGitHub\RepositorioGitHub.Commum\bin\Debug\RepositorioGitHub.Commum.dll
+C:\RepositoriosGitHub\RepositorioGitHub.Commum\bin\Debug\RepositorioGitHub.Commum.pdb
+C:\RepositoriosGitHub\RepositorioGitHub.Commum\obj\Debug\RepositorioGitHub.Commum.csprojAssemblyReference.cache
+C:\RepositoriosGitHub\RepositorioGitHub.Commum\obj\Debug\RepositorioGitHub.Commum.csproj.CoreCompileInputs.cache
+C:\RepositoriosGitHub\RepositorioGitHub.Commum\obj\Debug\RepositorioGitHub.Commum.dll
+C:\RepositoriosGitHub\RepositorioGitHub.Commum\obj\Debug\RepositorioGitHub.Commum.pdb
